@@ -1,0 +1,12 @@
+Comandi oper usare streamlit su ubuntu
+
+entrare nella cartella streamlit-dashboard/RNAscope
+   cd ~/streamlit-dashboard/RNAscope
+uscire
+    cd ..
+
+entrare nell'ambiente virtuale .venv
+    source .venv/bin/activate
+
+uscire dall'ambienbte virtuale
+    deactivate
